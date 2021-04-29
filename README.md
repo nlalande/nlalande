@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nlalande
 - 👀 I’m interested in Progressive web application developement focusing on Google (@gsuitedevs), @firebase, & @Polymer
-- 🌱 I’m currently learning and developing @PowerShell in a production environment.
+- 🌱 I’m currently learning and developing [PowerShell](https://github.com/PowerShell) in a production environment.
 - 💞️ I’m looking to collaborate on projects involving the aforementioned development tools, focusing on accounting and financial applications.
 - 📫 How to reach me ...
 
